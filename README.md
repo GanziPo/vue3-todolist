@@ -1,17 +1,19 @@
+# todolist
 
-### 1. 基本介绍
-  vue3-todolist
- 
-### 2. 使用说明
-  #### clone the project
-    git clone https://github.com/Sakan-ya/gin-vue-spa.git
+## Project setup
+```
+npm install
+```
 
-  #### enter the project directory
-    cd vue3-todolist
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
 
-  #### install dependency
-    npm install
+### Compiles and minifies for production
+```
+npm run build
+```
 
-  #### develop
-    npm run serve
-    
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
